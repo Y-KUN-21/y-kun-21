@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [AnimeFlask.](https://github.com/Y-KUN-21/animeflask)
+- 🔭 I’m currently working on [Animey.](https://github.com/Y-KUN-21/animey)
 - 🌱 I’m currently learning flutter, python and Go.
 - 📫 How to reach me: ky6942069@gmail.com
 - ⚡ Fun fact: [YES, Earth is Flat](https://i.kym-cdn.com/photos/images/original/001/383/084/c98.gif)
