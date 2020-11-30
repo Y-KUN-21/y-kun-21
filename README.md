@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=y-kun-21&theme=synthwave&layout=compact)
 
-
+<a href="https://github.com/Y-KUN-21/animey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animey&theme=synthwave" />
+</a>
 <a href="https://github.com/Y-KUN-21/animeflask">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animeflask&theme=synthwave" />
 </a>
@@ -24,9 +26,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/Y-KUN-21/Baajaar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=Baajaar&theme=synthwave" />
-</a>
-<a href="https://github.com/Y-KUN-21/animey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animey&theme=synthwave" />
 </a>
 <a href="https://github.com/Y-KUN-21/golang_scrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=golang_scrapper&theme=synthwave" />
