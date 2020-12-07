@@ -11,22 +11,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: [YES, Earth is Flat](https://i.kym-cdn.com/photos/images/original/001/383/084/c98.gif)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=y-kun-21&hide=contribs,prs&theme=synthwave&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=y-kun-21&hide=contribs,prs&theme=material-palenight&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=y-kun-21&theme=synthwave&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=y-kun-21&theme=material-palenight&layout=compact)
 
 <a href="https://github.com/Y-KUN-21/animey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animey&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animey&theme=material-palenight" />
 </a>
 <a href="https://github.com/Y-KUN-21/animeflask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animeflask&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=animeflask&theme=material-palenight" />
 </a>
 <a href="https://github.com/Y-KUN-21/HireMeApp2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=HireMeApp2&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=HireMeApp2&theme=material-palenight" />
 </a>
 <a href="https://github.com/Y-KUN-21/Baajaar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=Baajaar&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=Baajaar&theme=material-palenight" />
 </a>
 <a href="https://github.com/Y-KUN-21/golang_scrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=golang_scrapper&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-kun-21&repo=golang_scrapper&theme=material-palenight" />
 </a>
